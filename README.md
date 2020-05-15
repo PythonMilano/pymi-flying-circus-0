@@ -38,7 +38,7 @@ Ad esempio si possono avere differenti flussi di autenticazione per i vari SP, p
 
 ## JWT
 
-JSON Web Tokens è uno standar aperto identificato dalla RFC 7519 e serve per scambiare in modo sicuro dati tra le applicazioni.
+JSON Web Tokens è uno standard aperto identificato dalla RFC 7519 e serve per scambiare in modo sicuro dati tra le applicazioni.
 
 ### Python
 
@@ -118,3 +118,10 @@ Questa modalità è servita per disaccoppiare le due applicazioni e non andare a
         'email': account.email,
         'appToken': token,
     }
+
+
+## Libro consigliato
+
+[Solving Identity Management in Modern Applications: Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0](https://www.apress.com/it/book/9781484250945#otherversion=9781484250952)
+
+
